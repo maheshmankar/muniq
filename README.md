@@ -1,4 +1,4 @@
 muniq
 =====
 
-my unique 
+muniq is a data deduplication engine for windows subsystem.  
